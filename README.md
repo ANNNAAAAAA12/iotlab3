@@ -3,6 +3,9 @@
 Este repositorio contiene la solución completa para el **Laboratorio 3**, enfocado en la transmisión simultánea de telemetría desde múltiples dispositivos hacia la plataforma **Azure IoT Central**.
 
 ---
+##VISTA PANEL 
+
+<img width="1278" height="768" alt="image" src="https://github.com/user-attachments/assets/c0a95122-2647-4f57-84c9-2f341e57e091" />
 
 ## Dispositivos Configurados
 
